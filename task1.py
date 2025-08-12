@@ -126,6 +126,6 @@ for router in routers:
         
         connections.add(connection)
 
-# print debug information
+# print connections
 for conn in connections:
     print(conn)
